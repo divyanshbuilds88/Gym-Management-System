@@ -217,6 +217,7 @@ This project demonstrates practical implementation of concepts from the Java syl
 **Database:** MySQL  
 **GUI Framework:** Java Swing  
 **IDE:** IntelliJ IDEA
+
 **Developer:** **Divyansh Kumar**
 
 ## 📄 License
